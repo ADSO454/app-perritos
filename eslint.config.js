@@ -37,7 +37,7 @@ export default defineConfig([
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
 
       semi: 'off',
-      '@typescript-eslint/semi': 'off', // por si acaso
+      '@typescript-eslint/semi': 'off',
 
       'prettier/prettier': [
         'error',
