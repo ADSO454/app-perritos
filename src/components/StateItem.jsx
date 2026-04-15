@@ -1,4 +1,3 @@
-import React from 'react'
 function StateItem({ label, value, type }) {
   return (
     <div className={`state-item state-item--${type}`}>
